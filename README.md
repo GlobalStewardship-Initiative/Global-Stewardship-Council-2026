@@ -1,2 +1,2 @@
-# Global-Stewardship-Council-2026
-Open-source governance framework implementing the 2026 New Delhi Declaration, Vatican Antiqua et Nova principles, and EU AI Act standards for Earth Stewardship.
+Global Stewardship Council — 2026 San José / Paris Charter
+This Charter implements the principles of the February 2026 New Delhi AI Impact Summit, the Vatican's Antiqua et Nova note on AI ethics (January 2025), and the EU AI Act 2024. It is submitted as a contribution to global open governance under CC0 (public domain). Co-contributors from India, EU, and the Commonwealth are invited to submit pull requests.
